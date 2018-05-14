@@ -1,1 +1,1 @@
-# RedeNeural-XOR---Java
+# RedeNeural de Portas Lógicas -- Java
